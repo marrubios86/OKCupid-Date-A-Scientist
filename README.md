@@ -1,5 +1,5 @@
 # OKCupid - Predicting Drug Use with Machine Learning
-This project analyzes OKCupid survey data to predict whether a user takes drugs or not based on other personal characteristics. By applying supervised learning techniques, the goal is to determine if it’s possible to predict drug use using users’ demographic and lifestyle attributes.
+This project analyzes OKCupid survey data to predict whether a user takes drugs or not based on other personal characteristics. By applying supervised learning techniques, the goal is to determine if it’s possible to predict drug use using users’ demographic and lifestyle attributes. In addition to the Jupyter Notebook, this repository contains a **PowerPoint presentation** that summarizes the key findings, models used, and results of the project. 
 
 ## Project Goals
 1. Many users did not answer the "Do you take drugs?" question.
