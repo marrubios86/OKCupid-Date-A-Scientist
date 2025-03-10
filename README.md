@@ -34,7 +34,7 @@ Due to size and licensing restrictions, the dataset (`profiles.csv`) is **not in
 
 ## How to run this project
 1. Clone this repository:
-   git clone [https://github.com/yourusername/OKCupid-Drug-Prediction.git](https://github.com/marrubios86/OKCupid-Date-A-Scientist/blob/main/date-a-scientist.ipynb)
+   git clone https://github.com/marrubios86/OKCupid-Date-A-Scientist/blob/main/date-a-scientist.ipynb
 2. Install dependencies:
    pip install -r requirements.txt
 3. Open Jupyter Notebook:
