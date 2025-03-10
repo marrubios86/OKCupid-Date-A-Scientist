@@ -7,7 +7,8 @@ This project analyzes OKCupid survey data to predict whether a user takes drugs 
 3. It explores whether dating apps can infer missing data using machine learning.
 
 ## Dataset
-- Source: Codecademy (profiles.csv)
+- Source: Codecademy (profiles.csv). This project uses a dataset provided by Codecademy as part of their Data Science course.  
+Due to size and licensing restrictions, the dataset (`profiles.csv`) is **not included** in this repository.
 - Size: 59,946 rows and 31 features
 - Preprocessing Steps:
   - Encoded categorical variables (LabelEncoder & One-Hot Encoding).
